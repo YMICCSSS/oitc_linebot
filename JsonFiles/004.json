@@ -1,0 +1,36 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://imgur.com/fW9iRJf.jpg",
+        "title": "Autodesk 傳媒娛樂業課程",
+        "text": "Autodesk 傳媒娛樂業課程",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-detail/Vizible基礎課程/208"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/6K7dJaF.jpg",
+        "title": " 影片剪輯課程 ",
+        "text": " 影片剪輯課程 ",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-detail/影片剪輯課程/130"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

@@ -1,0 +1,49 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://imgur.com/zNdV3jF.jpg",
+        "title": "Autodesk 建築工程",
+        "text": "Autodesk 建築工程",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-detail/Autodesk_Revit_Architecture_2018_新增功能_課程/106"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/AXSd2aH.jpg",
+        "title": "Autodesk 土木工程",
+        "text": "Autodesk 土木工程",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-detail/Autodesk_Infraworks_基礎課程/103"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/lg8SrWv.jpg",
+        "title": "Autodesk 機電工程",
+        "text": "Autodesk 機電工程",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-detail/Autodesk_Revit_MEP_基礎課程_-_空調系統建置課程/98"
+          }
+        ]
+      }
+    ]
+  }
+}
+]
+

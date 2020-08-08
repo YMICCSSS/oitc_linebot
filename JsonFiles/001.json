@@ -1,0 +1,72 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://imgur.com/b9xlaHW.jpg",
+        "title": "製造業",
+        "text": "Autodesk製造業、Autodesk 造型、Siemens NX、 PTC CRE",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-cate/製造業/1"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/s8yzOoC.jpg",
+        "title": "營建業",
+        "text": "Autodesk 建築、Autodesk 機電、Autodesk 土木、Autodesk 廠房",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-cate/營建業/3"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/WAoy1Hn.jpg",
+        "title": "影像行銷",
+        "text": "Autodesk 傳媒娛樂、影片剪輯",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-cate/影像行銷/44"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/oJV59n7.jpg",
+        "title": "管理應用",
+        "text": "Otsuka IT、其他品牌",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-cate/管理應用/45"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/kgdq21f.jpg",
+        "title": "達人包套課程",
+        "text": "全套課程",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-list/達人包套課程/16"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

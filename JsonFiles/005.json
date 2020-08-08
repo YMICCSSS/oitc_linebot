@@ -1,0 +1,36 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://imgur.com/2yaDeRd.jpg",
+        "title": "Otsuka IT",
+        "text": "Otsuka IT",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-detail/HyperPDM_管理者設定課程(產品開發管理)/132"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/1qprNh5.jpg",
+        "title": "Vauit基礎",
+        "text": "Vauit基礎",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-detail/Autodesk_Vault_基礎課程/58"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

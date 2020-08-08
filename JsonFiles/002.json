@@ -1,0 +1,48 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://imgur.com/tJfuhQP.jpg",
+        "title": "Autodesk 製造業2D系列課程",
+        "text": "Autodesk 製造業2D系列課程",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-detail/Autodesk_AutoCAD_基礎課程/43"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/htrmbkg.jpg",
+        "title": "Autodesk製造業3D系列課程",
+        "text": "Autodesk製造業3D系列課程",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-detail/Autodesk_Inventor_新增功能設計力提升交流會/210"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/dcYcbx1.jpg",
+        "title": "Autodesk 造型設計",
+        "text": "Autodesk 造型設計",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "預覽課程",
+            "uri": "https://www.sishutang.com.tw/course-detail/Autodesk_Alias_SpeedForm_快速入門課程/73"
+          }
+        ]
+      }
+    ]
+  }
+}
+]
