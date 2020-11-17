@@ -86,9 +86,6 @@ def callback():
     return 'OK'
 
 
-# In[2]:
-
-
 # In[3]:
 
 
@@ -260,9 +257,6 @@ for rich_menu in rich_menu_list:
     print(rich_menu.rich_menu_id)
 
 
-# In[5]:
-
-
 # In[13]:
 
 
@@ -322,8 +316,6 @@ def reply_text_and_get_user_profile(event):
         reply_message_list
     )
 
-
-# In[6]:
 
 
 # In[15]:
